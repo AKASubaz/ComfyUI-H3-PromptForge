@@ -11,7 +11,7 @@ footage instead of guessing which second it was.
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOURNAME/ComfyUI-H3-PromptForge
+git clone https://github.com/AKASubaz/ComfyUI-H3-PromptForge
 ```
 
 Restart ComfyUI, then hard-refresh the browser. No dependencies beyond ComfyUI.
