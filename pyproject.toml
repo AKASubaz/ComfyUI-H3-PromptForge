@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-h3-promptforge"
+version = "0.1.0"
+description = "Timeline and per-frame denoise tools for MiniMax H3 in ComfyUI."
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/AKASubaz/ComfyUI-H3-PromptForge"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "H3 PromptForge"
+Icon = ""
